@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## About
 
-This is a recursive selection tree I made during an assignment for an internship. It utilizes recursion in React (components, states, and contexts) and was built with Next.js.
+This is a recursive selection tree I made for an internship assignment. It utilizes recursion in React (components, states, and contexts) and was built with Next.js.
 <p align="center">
   <img src="/Capture.PNG">
 </p>
